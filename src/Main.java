@@ -9,5 +9,6 @@ public class Main {
         System.out.println("short: " + kisaSayi);
         System.out.println("int: " + tamSayi);
         System.out.println("long: " + uzunSayi);
+        System.out.println("long: " + uzunSayi);
     }
 }
